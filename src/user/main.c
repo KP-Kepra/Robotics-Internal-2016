@@ -4,7 +4,7 @@
 #define LED_L  GPIO_Pin_4
 #define LED_M  GPIO_Pin_3
 #define LED_R  GPIO_Pin_15
-//Test
+//Test321
 static int t = 0;
 static int time_stop = 0;
 static int lift = 0;
